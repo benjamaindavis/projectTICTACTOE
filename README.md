@@ -1,3 +1,4 @@
 # Tic Tac Toe 
 
-THis repo contains a basic Tic Tac Toe python implementation.
+This repo contains a basic Tic Tac Toe python implementation.
+THe GUI application will be made with Tkinter.
